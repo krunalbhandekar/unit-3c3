@@ -1,0 +1,17 @@
+#movies{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    text-align: center;
+}
+#movies>div{
+    border: 1px solid;
+}
+img{
+    width: 200px;
+    height: 150px;
+}
+#mon{margin-left: 1000px;
+    width: 10%;
+    border: 1px solid 
+    ;
+}
